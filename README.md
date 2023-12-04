@@ -24,9 +24,9 @@ Users should be able to:
 ### Screenshot
  
 ![Mobile]
-(https://github.com/justinegal/ProductCardChallenge/images/mobile.png)
+(https://justinegal.github.io/ProductCardChallenge/images/mobile.png)
 ![Desktop]
-(https://github.com/justinegal/ProductCardChallenge/images/desktop.png)
+(https://justinegal.github.io/ProductCardChallenge/images/desktop.png)
 
 ### Links
 
